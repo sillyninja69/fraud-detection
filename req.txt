@@ -1,4 +1,9 @@
 streamlit
-pandas
-numpy
+joblib
 scikit-learn
+pandas
+numpy>=1.26.0
+matplotlib
+seaborn
+imbalanced-learn
+gdown
